@@ -1,0 +1,7 @@
+###########################
+item.SiliconPowder.name=硅粉
+item.SiliconIngot.name=硅锭
+item.CPU.name=CPU
+item.MemoryBar.name=内存条 
+itemGroup.Earea MOD=萝卜电脑
+tile.SiliconOre.name=硅矿
