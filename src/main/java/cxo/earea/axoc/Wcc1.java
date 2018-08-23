@@ -5,12 +5,12 @@ import cxo.earea.item.Sewc;
 import net.minecraftforge.fml.common.registry.ForgeRegistries;
 
 public class Wcc1 {
-	public static void init()	//ÔÚËùÓĞMod³õÊ¼»¯Ö®Ç°µ÷ÓÃ£¬ÕâÊ±ºòÓ¦¸Ã¼ÓÔØÅäÖÃÎÄ¼ş£¬ÊµÀı»¯ÎïÆ·ºÍ·½¿é£¬²¢×¢²áËüÃÇ¡£
+	public static void init()	//åœ¨æ‰€æœ‰Modåˆå§‹åŒ–ä¹‹å‰è°ƒç”¨ï¼Œè¿™æ—¶å€™åº”è¯¥åŠ è½½é…ç½®æ–‡ä»¶ï¼Œå®ä¾‹åŒ–ç‰©å“å’Œæ–¹å—ï¼Œå¹¶æ³¨å†Œå®ƒä»¬ã€‚
 	{
 		
 		ForgeRegistries.ITEMS.register(new Sewc().setRegistryName("CPU"));
 		
-    	ForgeRegistries.BLOCKS.register(new SiliconOre().setRegistryName("siliconore"));
+		ForgeRegistries.BLOCKS.register(new SiliconOre().setRegistryName("siliconore"));
     	
 
 	}
